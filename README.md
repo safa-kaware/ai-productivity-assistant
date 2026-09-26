@@ -1,5 +1,7 @@
 # ⚡ AI Productivity Assistant
 
+🔗 (https://ai-appuctivity-assistant-6jexsmufwhplw75vjw9plc.streamlit.app/)
+
 > One workspace. Every productivity task. Powered by AI.
 
 A modern, AI-powered productivity dashboard built with Streamlit and the Groq API. Combines 8 real-world productivity tools — meeting summarization, email rewriting, presentation outlining, and more — into a single, cohesive workspace with a custom-designed interface.
@@ -19,9 +21,7 @@ A modern, AI-powered productivity dashboard built with Streamlit and the Groq AP
 
 Every tool shares the same output handling — a persistent History log (saved to disk, survives restarts) and one-click download as `.txt`.
 
-## 🖼️ Screenshots
 
-*(Add 2-4 screenshots here — Home dashboard, one tool in use, and the History page work well)*
 
 ## 🛠️ Tech Stack
 
@@ -89,8 +89,6 @@ The app will open automatically at `http://localhost:8501`.
 ## 👤 Author
 
 **Safa**
-B.E. Computer Science (AI & ML), Gharda Institute of Technology
-
 ---
 
 *Built as a capstone project to demonstrate practical LLM integration, prompt engineering, and clean application architecture.*
